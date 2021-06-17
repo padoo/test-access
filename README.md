@@ -6,3 +6,6 @@ This is to see if push from work works as expected ;)
 
 ## Pull Heading
 This is from GitHub online editor!
+
+## Push from Git Bash
+Now from the console!
